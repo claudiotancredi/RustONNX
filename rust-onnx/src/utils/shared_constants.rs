@@ -1,0 +1,1 @@
+pub const SUPPORTED_IMAGE_FORMATS : [&str; 3] = ["JPG", "PNG", "JPEG"];

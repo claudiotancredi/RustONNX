@@ -1,0 +1,12 @@
+pub mod op_operator;
+pub mod op_add;
+pub mod op_batchnorm;
+pub mod op_conv_optimized;
+pub mod op_flatten;
+pub mod op_gemm;
+pub mod op_globalaveragepooling;
+pub mod op_matmul;
+pub mod op_maxpool;
+pub mod op_relu;
+pub mod op_reshape;
+pub mod operators;
